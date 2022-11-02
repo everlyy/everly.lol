@@ -1,0 +1,6 @@
+<?php
+// Example config file
+$apikey = "api key here!!";
+$dev = true;
+
+?>
